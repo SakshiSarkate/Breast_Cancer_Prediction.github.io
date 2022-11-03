@@ -89,6 +89,8 @@ Using the Breast Cancer Database, we will create a classifier that can help diag
 Used various Machine Learning Algorithms to analyse and predict.
 Used 30 different columns to understand the data.
 
+![ss1](https://user-images.githubusercontent.com/91774934/199792920-54e9bcba-5adb-43bb-a896-749e6cb95499.jpeg)
+
 # Project Demo Video:
 
 
